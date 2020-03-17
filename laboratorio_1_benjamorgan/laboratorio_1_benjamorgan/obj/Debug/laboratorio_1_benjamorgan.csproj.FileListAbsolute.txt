@@ -1,0 +1,6 @@
+C:\Users\bamor\Desktop\laboratorio-01-benjamorgan\laboratorio_1_benjamorgan\laboratorio_1_benjamorgan\obj\Debug\laboratorio_1_benjamorgan.csprojAssemblyReference.cache
+C:\Users\bamor\Desktop\laboratorio-01-benjamorgan\laboratorio_1_benjamorgan\laboratorio_1_benjamorgan\bin\Debug\laboratorio_1_benjamorgan.exe.config
+C:\Users\bamor\Desktop\laboratorio-01-benjamorgan\laboratorio_1_benjamorgan\laboratorio_1_benjamorgan\bin\Debug\laboratorio_1_benjamorgan.exe
+C:\Users\bamor\Desktop\laboratorio-01-benjamorgan\laboratorio_1_benjamorgan\laboratorio_1_benjamorgan\bin\Debug\laboratorio_1_benjamorgan.pdb
+C:\Users\bamor\Desktop\laboratorio-01-benjamorgan\laboratorio_1_benjamorgan\laboratorio_1_benjamorgan\obj\Debug\laboratorio_1_benjamorgan.exe
+C:\Users\bamor\Desktop\laboratorio-01-benjamorgan\laboratorio_1_benjamorgan\laboratorio_1_benjamorgan\obj\Debug\laboratorio_1_benjamorgan.pdb
